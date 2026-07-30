@@ -20,7 +20,7 @@ export function KeyboardShortcuts() {
       <div className="section-label">Keyboard Shortcuts</div>
       <h2 className="section-title">Full keyboard navigation</h2>
       <p className="section-subtitle">
-        All shortcuts are enabled by default. On macOS, <kbd>Ctrl</kbd> is automatically mapped to <kbd>Cmd ⌘</kbd>.
+        All shortcuts are enabled by default. On macOS, <kbd>Ctrl</kbd>  is automatically mapped to <kbd>Cmd ⌘</kbd>.
       </p>
 
       <div className="api-table-wrapper" style={{ marginTop: 32 }}>
